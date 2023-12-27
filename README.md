@@ -13,4 +13,3 @@ Model used:
 9. RNN
 10. LSTM
 
-**If you iterate XGBoost classifier you will get 100% accuracy **
